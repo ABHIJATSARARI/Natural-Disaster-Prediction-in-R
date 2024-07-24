@@ -1,7 +1,7 @@
 # Natural-Disaster-Prediction-in-R
 
 
-[!Project Logo](https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/logo.png)
+![Project Logo](https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/logo.png)
 
 
 ## Overview
