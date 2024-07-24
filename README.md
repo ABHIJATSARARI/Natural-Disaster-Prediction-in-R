@@ -1,8 +1,8 @@
 # Natural-Disaster-Prediction-in-R
 
-
-![Project Logo](https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/logo.png)
-
+<div align="center">
+  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/logo.png" alt="Project Logo">
+</div>
 
 ## Overview
 This project leverages an earthquake dataset from the U.S. Geological Survey (USGS) to predict natural disasters. The application features a GUI that allows users to interact with the model and observe immediate outcomes. The `shiny` package in R is used to develop a straightforward web application, resulting in an interactive web application for earthquake prediction.
@@ -35,18 +35,16 @@ This project leverages an earthquake dataset from the U.S. Geological Survey (US
 The earthquake dataset is sourced from the U.S. Geological Survey (USGS).
 
 ## Live Demo
-Check out the live demo of the application here.
-
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://abhijat-rapiz.shinyapps.io/project/)
 
 ## Screenshots
-[!Screenshot 1](https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset1.jpg)
-[!Screenshot 2](https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset2.jpg)
+<div align="center">
+  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset1.jpg" alt="Screenshot 1" width="400">
+  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset2.jpg" alt="Screenshot 2" width="400">
+</div>
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
-
-
