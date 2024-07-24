@@ -15,7 +15,7 @@ This project leverages an earthquake dataset from the U.S. Geological Survey (US
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/natural-disaster-prediction.git
+    git clone https://github.com/ABHIJATSARARI/natural-disaster-prediction.git
     cd natural-disaster-prediction
     ```
 2. Install the required packages:
@@ -35,7 +35,11 @@ This project leverages an earthquake dataset from the U.S. Geological Survey (US
 The earthquake dataset is sourced from the U.S. Geological Survey (USGS).
 
 ## Live Demo
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://abhijat-rapiz.shinyapps.io/project/)
+<div align="center">
+  <a href="https://abhijat-rapiz.shinyapps.io/project/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=appveyor" alt="Live Demo">
+  </a>
+</div>
 
 ## Screenshots
 <div align="center">
