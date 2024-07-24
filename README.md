@@ -43,8 +43,8 @@ The earthquake dataset is sourced from the U.S. Geological Survey (USGS).
 
 ## Screenshots
 <div align="center">
-  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset1.jpg" alt="Screenshot 1" width="400">
-  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset2.jpg" alt="Screenshot 2" width="400">
+  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset1.jpg" alt="Screenshot 1" width="400" hight='600'>
+  <img src="https://github.com/ABHIJATSARARI/Natural-Disaster-Prediction-in-R/blob/main/Preset2.jpg" alt="Screenshot 2" width="400" hight='600>
 </div>
 
 ## Contributing
