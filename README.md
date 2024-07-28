@@ -40,6 +40,11 @@ The earthquake dataset is sourced from the U.S. Geological Survey (USGS).
     <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=appveyor" alt="Live Demo">
   </a>
 </div>
+<div align="center">
+  <a href="https://posit.cloud/content/8476610" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=appveyor" alt="Live Demo Extentend">
+  </a>
+</div>
 
 ## Screenshots
 <div align="center">
